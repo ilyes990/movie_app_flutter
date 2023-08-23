@@ -1,6 +1,6 @@
 # movies_app
 
-A new Flutter project.
+![Movie_app_mockups](https://github.com/ilyes990/movie_app_flutter/assets/129783925/2ba04fd0-08e1-4f66-86ef-70481a219532)
 
 ## Getting Started
 
